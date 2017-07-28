@@ -1,0 +1,8 @@
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\pic3.png
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\Example.ShapeDetection.exe
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\Example.ShapeDetection.pdb
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\ShapeDetection\obj\Debug\ShapeDetection.csprojResolveAssemblyReference.cache
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\ShapeDetection\obj\Debug\ShapeDetection.MainForm.resources
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\ShapeDetection\obj\Debug\ShapeDetection.csproj.GenerateResource.Cache
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\ShapeDetection\obj\Debug\Example.ShapeDetection.exe
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\ShapeDetection\obj\Debug\Example.ShapeDetection.pdb

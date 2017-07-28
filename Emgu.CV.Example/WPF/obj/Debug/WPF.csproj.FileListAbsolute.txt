@@ -1,0 +1,13 @@
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\Emgu.CV.WPF.exe.config
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\Emgu.CV.WPF.exe
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\Emgu.CV.WPF.pdb
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\WPF\obj\Debug\WPF.csprojResolveAssemblyReference.cache
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\WPF\obj\Debug\Window1.baml
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\WPF\obj\Debug\Window1.g.cs
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\WPF\obj\Debug\App.g.cs
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\WPF\obj\Debug\Emgu.CV.WPF_MarkupCompile.cache
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\WPF\obj\Debug\Emgu.CV.WPF.g.resources
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\WPF\obj\Debug\Emgu.CV.WPF.Properties.Resources.resources
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\WPF\obj\Debug\WPF.csproj.GenerateResource.Cache
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\WPF\obj\Debug\Emgu.CV.WPF.exe
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\WPF\obj\Debug\Emgu.CV.WPF.pdb

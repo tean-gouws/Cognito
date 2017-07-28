@@ -1,0 +1,9 @@
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\SqliteDB.xml
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\Example.ImageDatabase.exe.config
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\Example.ImageDatabase.exe
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\Example.ImageDatabase.pdb
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\ImageDatabase\obj\Debug\ImageDatabase.csprojResolveAssemblyReference.cache
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\ImageDatabase\obj\Debug\ImageDatabase.MainForm.resources
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\ImageDatabase\obj\Debug\ImageDatabase.csproj.GenerateResource.Cache
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\ImageDatabase\obj\Debug\Example.ImageDatabase.exe
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\ImageDatabase\obj\Debug\Example.ImageDatabase.pdb

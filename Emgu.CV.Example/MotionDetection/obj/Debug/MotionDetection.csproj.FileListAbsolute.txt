@@ -1,0 +1,7 @@
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\Example.MotionDetection.exe
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\Example.MotionDetection.pdb
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\MotionDetection\obj\Debug\MotionDetection.csprojResolveAssemblyReference.cache
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\MotionDetection\obj\Debug\MotionDetection.Form1.resources
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\MotionDetection\obj\Debug\MotionDetection.csproj.GenerateResource.Cache
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\MotionDetection\obj\Debug\Example.MotionDetection.exe
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\MotionDetection\obj\Debug\Example.MotionDetection.pdb

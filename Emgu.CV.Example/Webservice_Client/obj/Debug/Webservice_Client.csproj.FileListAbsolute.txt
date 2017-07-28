@@ -1,0 +1,7 @@
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\Example.Webservice_Client.exe
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\Example.Webservice_Client.pdb
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\Webservice_Client\obj\Debug\Webservice_Client.csprojResolveAssemblyReference.cache
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\Webservice_Client\obj\Debug\Webservice_Client.Form1.resources
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\Webservice_Client\obj\Debug\Webservice_Client.csproj.GenerateResource.Cache
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\Webservice_Client\obj\Debug\Example.Webservice_Client.exe
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\Webservice_Client\obj\Debug\Example.Webservice_Client.pdb

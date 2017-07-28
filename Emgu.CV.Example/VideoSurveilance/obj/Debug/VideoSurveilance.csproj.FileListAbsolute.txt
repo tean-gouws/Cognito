@@ -1,0 +1,10 @@
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\haarcascade_eye.xml
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\haarcascade_frontalface_default.xml
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\lena.jpg
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\Example.VideoSurveilance.exe
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\Example.VideoSurveilance.pdb
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\VideoSurveilance\obj\Debug\VideoSurveilance.csprojResolveAssemblyReference.cache
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\VideoSurveilance\obj\Debug\VideoSurveilance.VideoSurveilance.resources
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\VideoSurveilance\obj\Debug\VideoSurveilance.csproj.GenerateResource.Cache
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\VideoSurveilance\obj\Debug\Example.VideoSurveilance.exe
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\VideoSurveilance\obj\Debug\Example.VideoSurveilance.pdb

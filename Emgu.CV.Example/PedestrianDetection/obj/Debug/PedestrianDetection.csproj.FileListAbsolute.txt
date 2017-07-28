@@ -1,0 +1,5 @@
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\pedestrian.png
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\Example.PedestrianDetection.exe
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\Example.PedestrianDetection.pdb
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\PedestrianDetection\obj\Debug\Example.PedestrianDetection.exe
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\PedestrianDetection\obj\Debug\Example.PedestrianDetection.pdb

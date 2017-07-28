@@ -1,0 +1,7 @@
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\license-plate.jpg
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\Example.LicensePlateRecognition.exe
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\Example.LicensePlateRecognition.pdb
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.LicensePlateRecognitionForm.resources
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.csproj.GenerateResource.Cache
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\LicensePlateRecognition\obj\Debug\Example.LicensePlateRecognition.exe
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\LicensePlateRecognition\obj\Debug\Example.LicensePlateRecognition.pdb

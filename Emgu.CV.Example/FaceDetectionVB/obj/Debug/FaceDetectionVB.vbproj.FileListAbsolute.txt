@@ -1,0 +1,11 @@
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\haarcascade_frontalface_default.xml
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\lena.jpg
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\Example.FaceDetectionVB.exe
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\Example.FaceDetectionVB.pdb
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\Example.FaceDetectionVB.xml
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\FaceDetectionVB\obj\Debug\FaceDetectionVB.vbprojResolveAssemblyReference.cache
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\FaceDetectionVB\obj\Debug\FaceDetectionVB.Resources.resources
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\FaceDetectionVB\obj\Debug\FaceDetectionVB.vbproj.GenerateResource.Cache
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\FaceDetectionVB\obj\Debug\Example.FaceDetectionVB.exe
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\FaceDetectionVB\obj\Debug\Example.FaceDetectionVB.xml
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\FaceDetectionVB\obj\Debug\Example.FaceDetectionVB.pdb

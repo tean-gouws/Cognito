@@ -1,0 +1,9 @@
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\Aruco.exe.config
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\Aruco.exe
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\Aruco.pdb
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\Aruco\obj\Debug\Aruco.csprojResolveAssemblyReference.cache
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\Aruco\obj\Debug\Aruco.Form1.resources
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\Aruco\obj\Debug\Aruco.Properties.Resources.resources
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\Aruco\obj\Debug\Aruco.csproj.GenerateResource.Cache
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\Aruco\obj\Debug\Aruco.exe
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\Aruco\obj\Debug\Aruco.pdb

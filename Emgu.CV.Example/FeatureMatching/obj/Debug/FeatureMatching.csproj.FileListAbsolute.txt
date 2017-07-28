@@ -1,0 +1,6 @@
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\box.png
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\box_in_scene.png
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\Example.FeatureMatching.exe
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\Example.FeatureMatching.pdb
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\FeatureMatching\obj\Debug\Example.FeatureMatching.exe
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\FeatureMatching\obj\Debug\Example.FeatureMatching.pdb

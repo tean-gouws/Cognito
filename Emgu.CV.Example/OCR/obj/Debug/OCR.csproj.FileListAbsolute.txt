@@ -1,0 +1,8 @@
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\trained_classifierNM1.xml
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\trained_classifierNM2.xml
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\trained_classifier_erGrouping.xml
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\Example.OCR.exe
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\Example.OCR.pdb
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\OCR\obj\Debug\OCR.csprojResolveAssemblyReference.cache
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\OCR\obj\Debug\Example.OCR.exe
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\OCR\obj\Debug\Example.OCR.pdb

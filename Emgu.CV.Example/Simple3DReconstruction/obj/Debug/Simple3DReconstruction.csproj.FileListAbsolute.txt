@@ -1,0 +1,7 @@
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\imL.png
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\imR.png
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\Example.Simlpe3DReconstruction.exe
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\Example.Simlpe3DReconstruction.pdb
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\Simple3DReconstruction\obj\Debug\Simple3DReconstruction.csprojResolveAssemblyReference.cache
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\Simple3DReconstruction\obj\Debug\Example.Simlpe3DReconstruction.exe
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\Simple3DReconstruction\obj\Debug\Example.Simlpe3DReconstruction.pdb

@@ -1,0 +1,5 @@
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\Example.HelloWorld.exe
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\Example.HelloWorld.pdb
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\HelloWorld\obj\Debug\Example.HelloWorld.exe
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.Example\HelloWorld\obj\Debug\Example.HelloWorld.pdb

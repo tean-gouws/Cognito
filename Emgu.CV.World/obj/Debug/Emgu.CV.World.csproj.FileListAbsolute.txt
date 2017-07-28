@@ -1,0 +1,5 @@
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\Emgu.CV.World.XML
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\Emgu.CV.World.dll
+C:\Emgu\emgucv-windesktop 3.2.0.2682\bin\Emgu.CV.World.pdb
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.World\obj\Debug\Emgu.CV.World.dll
+C:\Emgu\emgucv-windesktop 3.2.0.2682\Emgu.CV.World\obj\Debug\Emgu.CV.World.pdb
